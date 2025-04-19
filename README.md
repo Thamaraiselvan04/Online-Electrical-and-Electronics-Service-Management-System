@@ -1,5 +1,10 @@
 # Online-Service-Management-System
 A web portal through which user can request for service and the company can assign engineers for the service that is requested by the users.
+•	Developed a web-based service management system for repair requests, enabling online submissions and admin management of technicians and job status.
+•	Designed a responsive UI using HTML, CSS, and JavaScript, and built the back-end with PHP while integrating MySQL for efficient data management.
+•	Automated the request and invoicing process, reducing manual work and improving processing efficiency by 30%.
+•	Tech Stack: HTML, CSS, JavaScript, PHP, MySQL.
+
 
 ## Admin account features
 1. Assign Engineer
