@@ -23,5 +23,5 @@ The user will create a requester account to raise a request.
 ## Admin account
 This account will be created by the company to take action over the services and will also track the components that are available and the sales of the components and the action taken on various requests.
 
-
+![Image](https://github.com/user-attachments/assets/e0356bf0-f560-4186-abfb-0c656a8a9ac5)
 
