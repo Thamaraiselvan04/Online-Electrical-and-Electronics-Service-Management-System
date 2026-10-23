@@ -2,7 +2,7 @@
 
 **🔗 Live Demo:** [https://electroservice.infinityfreeapp.com/](https://electroservice.infinityfreeapp.com/)
 
-A web portal through which users can request a service and the company can assign engineers to the requested service.
+A web portal through which users can request a service and the company can assign engineers to the requested service..
 
 - Developed a web-based service management system for repair requests, enabling online submissions and admin management of technicians and job status.
 - Designed a responsive UI using HTML, CSS, and JavaScript, and built the back-end with PHP while integrating MySQL for efficient data management.
