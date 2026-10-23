@@ -525,3 +525,15 @@ body.dash-body { background: var(--light); }
 .req-card h5, .panel h5 { color: var(--dark); }
 .panel h4 { color: var(--dark); }
 .reg-form h4 { color: var(--dark); } .reg-side h3 { color: #fff; }
+
+/* ---------- Mobile zoom-out fix ----------
+   Nothing may be wider than the screen. Before the scroll animations (fade-left /
+   fade-right) run, elements sit 100px off-screen; that made phones zoom the whole
+   page out. "clip" hides that overflow without breaking the sticky navbar. */
+@supports (overflow-x: clip) {
+  html, body { overflow-x: clip; }
+}
+/* Bootstrap's big g-5 gap is wider than the container padding on phones */
+@media (max-width: 575px) {
+  .row.g-5 { --bs-gutter-x: 1.5rem; }
+}
